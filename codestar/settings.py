@@ -30,6 +30,7 @@ DEBUG = True
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
 ALLOWED_HOSTS = ["mb2test.herokuapp.com", "localhost"]
+'codestar2024.herokuapp.com'
 
 # Application definition
 
